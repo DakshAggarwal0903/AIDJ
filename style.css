@@ -1,0 +1,38 @@
+.h31{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+#span1{
+    color: black;
+    font-size: 15px;
+}
+body{
+    background-size: cover;
+}
+#div1{
+    float:left;
+}
+#div2{
+    float:right;
+}
+#img1{
+    width:200px;
+    border-radius:100px;
+}
+#img2{
+    width:200px;
+    border-radius:100px;
+}
+#h32,#h33{
+    font-size:23px;
+    margin: 15px;
+}
+.button1{
+    font-size:30px;
+    width:130px;
+}
+canvas{
+    border-radius:20px;
+    border:5px solid white;
+}
